@@ -1,13 +1,14 @@
 # Kratos
 
-A clean, simple and responsive blog theme of WordPress, based on [Bootstrap](https://github.com/twbs/bootstrap) and [Font Awesome](https://github.com/FortAwesome/Font-Awesome). Created and maintained by Vtrois. Stay up to date with the latest release and announcements on [Bulletin Board](https://github.com/Vtrois/Kratos/issues). 
+A clean, simple and responsive blog theme of WordPress, based on [Bootstrap](https://github.com/twbs/bootstrap) and [Font Awesome](https://github.com/FortAwesome/Font-Awesome). Created and maintained by Vtrois. Stay up to date with the latest release and announcements on [Bulletin Board](https://github.com/Vtrois/Kratos/issues).
 
-![Kratos Demo](http://i2.bvimg.com/1949/649bfde164c5c8b1.png) 
+![Kratos Demo](http://i2.bvimg.com/1949/649bfde164c5c8b1.png)
 
 ## Structure
-Within the download you'll find the following directories and files. You'll see something like this :point_down:
 
-```
+Within the download you'll find the following directories and files. You'll see something like this :point\_down:
+
+```text
 kratos/
 ├── css/
 │   ├── animate.min.css
@@ -87,11 +88,11 @@ kratos/
 ├── functions.php
 └── screenshot.png
 ```
-  
+
 ## License
 
-- The Kratos Html,CSS,JavaScript,and PHP files are licensed under the GNU General Public License v3:
-  - http://www.gnu.org/licenses/gpl-3.0.html
+* The Kratos Html,CSS,JavaScript,and PHP files are licensed under the GNU General Public License v3:
+  * [http://www.gnu.org/licenses/gpl-3.0.html](http://www.gnu.org/licenses/gpl-3.0.html)
+* The Kratos documentation is licensed under the CC BY 4.0 License:
+  * [https://creativecommons.org/licenses/by/4.0](https://creativecommons.org/licenses/by/4.0)
 
-- The Kratos documentation is licensed under the CC BY 4.0 License:
-  - https://creativecommons.org/licenses/by/4.0
